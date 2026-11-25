@@ -1,0 +1,3 @@
+ACC101|Riya|1234|3900|false
+ACC102|Aman|2345|3200|true
+ACC103|Neha|3456|0|false
